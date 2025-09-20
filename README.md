@@ -4,7 +4,7 @@ I don't know what to write... 😴
 
 ## My Skills
 
-### 🗺️Languages
+### 🗺️Programming Languages
 [![Skills Programming Language](https://skillicons.dev/icons?i=cs,py)](https://skillicons.dev)
 
 ### 🌐Web Development
